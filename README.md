@@ -1,0 +1,2 @@
+# SQL-EXERCISES
+BrightLearn Exercises
